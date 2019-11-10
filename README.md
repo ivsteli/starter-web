@@ -11,5 +11,8 @@ hello introduction
 ## Deployment
 hello deployment hello again
 
+## How to contribute
+Please fork this repository and then issue pull requests for review.
+
 ### Cpyright
 Training
