@@ -15,4 +15,4 @@ hello deployment hello again
 Please fork this repository and then issue pull requests for review.
 
 ### Cpyright
-Training
+2014. All rights Reserved
